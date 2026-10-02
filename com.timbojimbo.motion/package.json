@@ -1,0 +1,19 @@
+{
+	"name": "com.timbojimbo.motion",
+	"displayName": "Motion",
+	"version": "0.1.0",
+	"unity": "6000.0",
+	"unityRelease": "0f1",
+	"description": "Springs and changes, as SwiftUI's withAnimation: a change made inside Animate moves what it changes on springs, from where it is drawn and at the velocity it has, and reports when everything it moved has landed. Animations are given as a duration and a bounce. Values of your own (a colour, a radius) move with the change too. The motion under UI Layout and Variants.",
+	"dependencies": {
+		"com.unity.modules.ui": "1.0.0"
+	},
+	"author": {
+		"name": "Timbo Jimbo",
+		"url": "https://timbojimbo.com",
+		"email": "hello@timbojimbo.com"
+	},
+	"changelogUrl": "https://github.com/Timbo-Jimbo/Motion/blob/main/com.timbojimbo.motion/CHANGELOG.md",
+	"documentationUrl": "https://github.com/Timbo-Jimbo/Motion#readme",
+	"licensesUrl": "https://github.com/Timbo-Jimbo/Motion/blob/main/LICENSE"
+}
