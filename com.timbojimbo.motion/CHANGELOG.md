@@ -1,4 +1,4 @@
-## [Unreleased]
+## [0.1.0] - 02/10/2026
 
 The first version: UI Layout's springs and changes, in a package of their own for anything that moves with a change.
 
