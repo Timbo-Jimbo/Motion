@@ -1,5 +1,7 @@
 # Timbo Jimbo - Motion
 
+> **Moved.** Motion is now part of [Timbo Jimbo - UI](https://github.com/Timbo-Jimbo/UI) (`com.timbojimbo.ui` 0.3.0 and later), under the `TimboJimbo.UI.Motion` namespace. This repository is archived at Motion 0.1.0, the version the UI package took it from.
+
 Changes made on springs, as SwiftUI's `withAnimation`: what a change moves sets off from where it is drawn, at the velocity it has, and the change says when everything it moved has landed. The motion under [UI Layout](https://github.com/Timbo-Jimbo/UI.Layout) and [Variants](https://github.com/Timbo-Jimbo/Variants).
 
 🌀 **Changes**
